@@ -12,5 +12,5 @@ void loop() {
   digitalWrite(ledPin, on); 
   delay(100); //msec (1000msec=1sec)
   digitalWrite(ledPin, off);
-  delay(100); //msec (1000msec=1sec)
+  delay(500); //msec (1000msec=1sec)
 }
